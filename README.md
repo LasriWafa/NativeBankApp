@@ -74,9 +74,9 @@ To execute this project correctly:
 - Tomcat 10 is required as the application uses Jakarta EE specifications
 
 ## License
-This project is intended for academic, learning, and demonstration purposes only.
+- This project is intended for academic, learning, and demonstration purposes only.
 
 ## Author
-Wafa Lasri
-ouafae.lasri@gmail.com
-GitHub: @LasriWafa
+- Wafa Lasri
+- ouafae.lasri@gmail.com
+- GitHub: @LasriWafa
