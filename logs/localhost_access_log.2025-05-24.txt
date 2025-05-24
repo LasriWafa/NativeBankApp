@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:35 +0100] "GET /BankatiWeb HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:35 +0100] "GET /BankatiWeb/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:37 +0100] "GET /BankatiWeb/login HTTP/1.1" 200 3690
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:42 +0100] "POST /BankatiWeb/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:43 +0100] "GET /BankatiWeb/admin HTTP/1.1" 200 2533
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:45 +0100] "GET /BankatiWeb/admin/users HTTP/1.1" 200 4828
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:48 +0100] "GET /BankatiWeb/admin/credit-requests HTTP/1.1" 200 5578
+0:0:0:0:0:0:0:1 - - [24/May/2025:13:14:55 +0100] "GET /BankatiWeb/admin/users HTTP/1.1" 200 4828
